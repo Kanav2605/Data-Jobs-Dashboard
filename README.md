@@ -1,7 +1,7 @@
 # Data Jobs Dashboard w/ Power BI
 
 <a href="https://lukeb.co/powerbi-project1" target="_blank">
-  <img src="../Power_BI_Project/images/Image 1.png" alt="Data Jobs Dashboard GIF">
+  <img src="images/Image 1.png" alt="Data Jobs Dashboard GIF">
 </a>
 
 > <a href="https://app.powerbi.com/view?r=eyJrIjoiODBmYjM5YTgtYWQ2ZS00MmMzLWFhM2ItYTlmOTMwODFmOGIzIiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9&pageName=047a2e6143ca21321fd6" target="_blank">📊 View interactive dashboard here on the Power BI Service</a>
